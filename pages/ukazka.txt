@@ -1,0 +1,12 @@
+<head>
+    <link rel="stylesheet" href="uvod.css">
+</head>
+<body>
+    <h1>Hlavní nadpis</h1>
+    <img src="images/ukazka.png">
+
+    <div class="styl-sekce">
+        <h2>Hola hej</h2>
+        <p>Lorem ipsum dolor sit amet</p>
+    </div>
+</body>
